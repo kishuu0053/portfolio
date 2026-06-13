@@ -3,11 +3,11 @@ import React from 'react'
 import Home from './pages/Home'
 import Navbar from './components/shared/Navbar'
 import Footer from './components/shared/Footer'
-import About from './pages/about'
+import About from './pages/About'
 import Serviceoffer from './components/ui/Serviceoffer'
-import { Features } from 'tailwindcss'
-import Services from './pages/services'
-import Contact from './pages/contact'
+// import { Features } from 'tailwindcss'
+import Services from './pages/Services'
+import Contact from './pages/Contact'
 
 
 export default function App() {
